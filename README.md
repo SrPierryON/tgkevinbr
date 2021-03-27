@@ -8,4 +8,5 @@
 
 # Projetos Finalizados
 - [ ] Discord Bot Source
-- [x] ~~Discord Economy Bot~~ * *Cancelado*
+- [✓] ~~Discord Economy Bot~~ * *Cancelado*
+
